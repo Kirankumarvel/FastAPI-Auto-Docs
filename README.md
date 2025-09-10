@@ -163,6 +163,3 @@ fastapi-magic-explained/
 **FastAPI isn't magic—it's the elegant use of modern Python.**  
 By leveraging type hints, Pydantic, and decorators, you create an API that is self-documenting and always in sync. The automatic docs are simply a reflection of your well-defined code.
 
-> **Your code is your documentation.**
-
-Enjoy building, and happy documenting! 🚀
